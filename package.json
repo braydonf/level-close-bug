@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "leveldown": "git://github.com/Level/leveldown#657b5c8601804f54dd43d0c647266620632923e7",
+    "levelup": "git://github.com/Level/levelup#202ee1ff9857edf6e0bb8d2c2784ca0ff2f823f6"
+  }
+}
